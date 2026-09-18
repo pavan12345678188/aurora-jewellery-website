@@ -1,0 +1,6 @@
+{
+  "name": "AURORA Fine Jewellery",
+  "description": "Luxury fine jewellery atelier featuring handcrafted 18K and 22K gold, certified diamonds, interactive bag, insured checkout, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
